@@ -1,0 +1,17 @@
+C:\Users\пк\source\repos\ClientServer\ClientServer\bin\Debug\net6.0-windows\ClientServer.exe
+C:\Users\пк\source\repos\ClientServer\ClientServer\bin\Debug\net6.0-windows\ClientServer.deps.json
+C:\Users\пк\source\repos\ClientServer\ClientServer\bin\Debug\net6.0-windows\ClientServer.runtimeconfig.json
+C:\Users\пк\source\repos\ClientServer\ClientServer\bin\Debug\net6.0-windows\ClientServer.dll
+C:\Users\пк\source\repos\ClientServer\ClientServer\bin\Debug\net6.0-windows\ClientServer.pdb
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.Form1.resources
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.AssemblyInfo.cs
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.dll
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\refint\ClientServer.dll
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.pdb
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ClientServer.genruntimeconfig.cache
+C:\Users\пк\source\repos\ClientServer\ClientServer\obj\Debug\net6.0-windows\ref\ClientServer.dll
